@@ -1,6 +1,6 @@
 import inspect
 
-if not hasattr(inspect, "getargspec"):
+if not hasattr(inspect, "signature"):
     inspect.signature = inspect.signature
 
 
