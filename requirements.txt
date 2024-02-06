@@ -1,5 +1,4 @@
 nltk
-random
 PyPDF2
 flask
 flask_cors
